@@ -1,0 +1,22 @@
+# Install gitBash for windows
+
+git clone https://github.com/chinmayMohanta/hadoopDatamining.git
+cd hadoopDatamining
+
+# Default is master; but you can create topic branch as shown bellow
+#git checkout -b TOPIC-ckm
+
+# set the config variables as shown bellow  
+git config user.name "chinmayMohanta"
+git config user.email "chinmay.mohanta.cil@gmail.com"
+
+
+git config --list
+
+# ADD new file or modify existing file
+
+git add .
+
+git commit
+
+git push
