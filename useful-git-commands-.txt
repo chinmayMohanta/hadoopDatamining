@@ -4,11 +4,11 @@ git clone https://github.com/chinmayMohanta/hadoopDatamining.git
 cd hadoopDatamining
 
 # Default is master; but you can create topic branch as shown bellow
-#git checkout -b TOPIC-ckm
+#git checkout -b TOPIC-test
 
 # set the config variables as shown bellow  
-git config user.name "chinmayMohanta"
-git config user.email "chinmay.mohanta.cil@gmail.com"
+git config user.name "your_username"
+git config user.email "your_email_id"
 
 
 git config --list
