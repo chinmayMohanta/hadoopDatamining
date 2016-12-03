@@ -1,5 +1,5 @@
 # hadoopDatamining
-Author: chinmay Mohanta
+contact: chinmay.mohanta.cil@gmail.com
 Title :: Playing with Hadoop(spark) for massive data mining and machine learning
 
 Introduction::
